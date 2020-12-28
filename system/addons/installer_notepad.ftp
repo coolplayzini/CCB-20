@@ -1,0 +1,7 @@
+open YOUR-SERVER-IP-HERE
+admin
+Oliver2006
+lcd C:\ccb_pro\system\addons\
+cd public/CCB_ADDONS
+get notepad.bat
+bye

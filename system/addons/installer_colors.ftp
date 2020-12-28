@@ -1,0 +1,13 @@
+open YOUR-SERVER-IP-HERE
+admin
+Oliver2006
+cd public/CCB_ADDONS/colors
+get "CCB Pro 20 BlueBlack 9.bat"
+get "CCB Pro 20 BlueRed 4b.bat"
+get "CCB Pro 20 BlueWhite 79.bat"
+get "CCB Pro 20 GreenBlack a.bat"
+get "CCB Pro 20 PurpleBlack 5.bat"
+get "CCB Pro 20 PurpleGreen a5.bat"
+get "CCB Pro 20 RedBlack 4.bat"
+get "CCB Pro 20 standart.bat"
+bye
